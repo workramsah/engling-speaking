@@ -1,5 +1,5 @@
 // lib/prisma.ts
-import { PrismaClient } from '../app/generated/prisma/client';
+import { PrismaClient } from '@prisma/client';
 
 // Declare a global variable to store the Prisma client instance
 // This is a common pattern for Next.js and other frameworks to prevent
