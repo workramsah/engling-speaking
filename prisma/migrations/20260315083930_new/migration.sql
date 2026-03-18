@@ -1,4 +1,4 @@
-l-- CreateEnum
+-- CreateEnum
 CREATE TYPE "Level" AS ENUM ('Beginner', 'Intermediate', 'Expert');
 
 -- CreateTable
